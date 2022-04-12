@@ -6,6 +6,7 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
+        //new commit
     }
 
     public static void printThreeWords() {
