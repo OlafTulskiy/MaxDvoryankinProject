@@ -6,7 +6,7 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
-        //new commit
+        //lesson one done
     }
 
     public static void printThreeWords() {
