@@ -30,7 +30,6 @@ public class homework5 {
         }
         System.out.println("==============================");
 
-
     }
 
 }
