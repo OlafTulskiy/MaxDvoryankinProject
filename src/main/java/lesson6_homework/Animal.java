@@ -3,7 +3,7 @@ package lesson6_homework;
 public abstract class Animal {
 
     protected String name;
-    protected static int count;
+    protected static int count;//counter for object animal
 
     Animal (String _name) {
         name = _name;
