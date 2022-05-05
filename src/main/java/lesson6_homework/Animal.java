@@ -19,7 +19,7 @@ public abstract class Animal {
     }
 
     public void showCounter() {
-        System.out.println("Count of ainimals is - " + count);
+        System.out.println("Count of animals is - " + count);
     }
 
 }
